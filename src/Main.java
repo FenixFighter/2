@@ -19,7 +19,7 @@ public class Main {
             num1 = in.nextFloat();
             System.out.print("Введите второе число num2 = ");
             num2 = in.nextFloat();
-            System.out.print("Введите операцию между ними (+ - * / % **)");
+            System.out.print("/Введите операцию между ними (+ - * / % **)");
             operation = in.nextLine();
             operation = in.nextLine();
             switch (operation) {
@@ -57,3 +57,4 @@ public class Main {
 
     }
 }
+//wow wow
