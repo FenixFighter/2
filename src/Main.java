@@ -53,8 +53,8 @@ public class Main {
             System.out.println("Вы хотите снова сделать операцию?\n\t1 - да\n\t2 - нет");
             Retry = in.nextByte();
 
-        }while(Retry == 1);
-
+        } while (Retry == 1);
+        System.out.println("hello");
     }
 }
-//wow wow
+//wow wow test2
